@@ -1,0 +1,13 @@
+{
+  "name": "Webcrawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "google": "^2.1.0",
+    "google-search-scraper": "^0.0.3",
+    "node-webcrawler": "^0.8.0",
+    "url": "^0.7.9"
+  }
+}
